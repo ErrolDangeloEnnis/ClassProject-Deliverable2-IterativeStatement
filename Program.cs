@@ -10,7 +10,7 @@ namespace ClassProject_Deliverable2_IterativeStatement
             /*
              * Author:Errol Ennis
              * Date:September 12, 2019
-             * Description: Asks students to enter desired grade and displays grade letter.
+             * Description: Asks students to enter number between 1-100.
              */
 
             Console.WriteLine("Enter a number between 1-100");
